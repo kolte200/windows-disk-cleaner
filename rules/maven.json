@@ -1,0 +1,8 @@
+[
+    {
+        "run": {
+            "file": "mvn",
+            "args": ["dependency:purge-local-repository"]
+        }
+    }
+]

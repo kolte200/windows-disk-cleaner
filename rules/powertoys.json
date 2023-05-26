@@ -1,0 +1,8 @@
+[
+    {
+        "rm": {
+            "files": "%LocalAppData%/Microsoft/PowerToys/Updates/*",
+            "age": {"min": "8d"}
+        }
+    }
+]

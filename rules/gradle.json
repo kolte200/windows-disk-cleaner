@@ -1,0 +1,7 @@
+[
+    {
+        "rm": {
+            "files": "%UserProfile%/.gradle/caches/*"
+        }
+    }
+]

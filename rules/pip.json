@@ -1,0 +1,8 @@
+[
+    {
+        "run": {
+            "file": "pip",
+            "args": ["cache", "remove", "*"]
+        }
+    }
+]

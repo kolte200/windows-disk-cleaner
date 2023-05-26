@@ -1,0 +1,24 @@
+[
+    {
+        "rm": {
+            "files": {
+                "join": [
+                    "%AppData%/Microsoft/Teams/",
+                    [
+                        "logs",
+                        "Cache",
+                        "Code Cache",
+                        "Service Worker",
+                        "ai_models",
+                        "images",
+                        "imagesMSA",
+                        "ai_models",
+                        "tmp",
+                        "GPUCache",
+                        "*logs*.txt"
+                    ]
+                ]
+            }
+        }
+    }
+]

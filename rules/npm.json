@@ -1,0 +1,8 @@
+[
+    {
+        "run": {
+            "file": "npm",
+            "args": ["cache", "clean"]
+        }
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "run": {
+            "file": {
+                "join": [
+                    {
+                        "reg": "HKLM/SOFTWARE/Piriform/CCleaner/ProgramFolder"
+                    },
+                    "ccleaner.exe"
+                ]
+            },
+            "args": ["/AUTO"]
+        }
+    }
+]

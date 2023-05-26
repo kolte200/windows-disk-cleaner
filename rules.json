@@ -1,0 +1,25 @@
+[
+    {
+        "includes": {
+            "join": [
+                "rules",
+                [
+                    "cache.json",
+                    "ccleaner.json",
+                    "cleanmgr.json",
+                    "defrag.json",
+                    "downloads.json",
+                    "gradle.json",
+                    "npm.json",
+                    "pip.json",
+                    "powertoys.json",
+                    "teams.json",
+                    "temp.json",
+                    "unity.json",
+                    "unrealengine.json",
+                    "vscode.json"
+                ]
+            ]
+        }
+    }
+]

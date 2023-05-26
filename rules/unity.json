@@ -1,0 +1,7 @@
+[
+    {
+        "rm": {
+            "files": "%LocalAppData%/Unity/cache"
+        }
+    }
+]

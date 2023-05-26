@@ -1,0 +1,8 @@
+[
+    {
+        "run": {
+            "file": "cleanmgr.exe",
+            "args": ["/sagerun:1"]
+        }
+    }
+]

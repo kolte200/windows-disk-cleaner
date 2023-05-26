@@ -1,0 +1,21 @@
+[
+    {
+        "rm": {
+            "files": [
+                {
+                    "join": [
+                        "%AppData%/Code",
+                        ["Cache","CachedDate","CachedExtensions","Code Cache"]
+                    ]
+                },
+                "%LocalAppData%/Microsoft/vscode-cpptools/ipch"
+            ]
+        }
+    },
+    {
+        "rm": {
+            "files": "%AppData%/Code/User/workspaceStorage",
+            "age": {"min": "2d"}
+        }
+    }
+]

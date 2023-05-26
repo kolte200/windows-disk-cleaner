@@ -1,0 +1,8 @@
+[
+    {
+        "rm": {
+            "files": "%UserProfile%/.cache",
+            "age": {"min": "2d"}
+        }
+    }
+]
